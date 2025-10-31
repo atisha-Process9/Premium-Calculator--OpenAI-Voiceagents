@@ -446,22 +446,7 @@ Or create a `.env.local` file in the project root.
 - **Tailwind CSS**: Utility-first CSS framework
 - **WebRTC**: Audio streaming
 
-## 📄 License
-
-See LICENSE file for details.
-
-## 🤝 Contributing
-
-This is a demonstration project. For production use, ensure you:
-- Implement proper error handling
-- Add comprehensive logging
-- Set up monitoring and analytics
-- Implement proper security measures
-- Add unit and integration tests
-- Configure rate limiting
-- Set up proper CI/CD pipelines
-
-## 📖 Additional Resources
+## 📖 Resources
 
 - [OpenAI Voice Agents](https://platform.openai.com/docs/guides/voice-agents?voice-agent-architecture=speech-to-speech)
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-js/guides/voice-agents/)
